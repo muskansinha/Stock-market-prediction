@@ -1,4 +1,3 @@
-```markdown
 # Stock Market Prediction using Deep Learning (MLP)
 
 ## Overview
@@ -119,5 +118,4 @@ Run the notebook to:
 3. Predict closing prices
 4. Visualize predictions
 
----
 
